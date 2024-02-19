@@ -1,0 +1,79 @@
+.logo{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.navBar{
+    width: 100%;
+    background-color: #040D12;
+    z-index: 40;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    
+}
+
+.navLink{
+    text-decoration: none;
+    color:white !important;
+    margin: 10px;
+    font-weight: 500 !important;
+    padding: 10px !important;
+    font-size: 17px !important;
+    text-align: center;
+}
+
+.navLink:hover{
+    background-color: #183D3D !important;
+}
+
+.toggle-button{
+    background-color: #183D3D !important;
+}
+
+.sep-line{
+    color: white;
+}
+
+.log-button{
+    background-color: #183D3D !important;
+    border-radius: 5px !important;
+    border: none;
+    outline: none;
+}
+
+/* *************** shopping car Icon */
+
+.cart {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .cart-icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0 5px;
+  }
+  
+  .cart-icon i {
+    font-size: 20px;
+  }
+  
+  .item-count {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    background-color: #ff0000;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 50%;
+  }

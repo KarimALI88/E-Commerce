@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "karim ali el-sayed",
+      "email": "karimalielsayed88@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "2",
+      "name": "mohamed hamdy",
+      "email": "mohamedhamdy@gmail.com",
+      "password": "246810"
+    },
+    {
+      "id": "3",
+      "name": "kemoo",
+      "email": "karim@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "4",
+      "name": "kemoo gamed",
+      "email": "karim80@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "5",
+      "name": "hamdy",
+      "email": "hamdy@gmail.com",
+      "password": "2468"
+    },
+    {
+      "id": "87e1",
+      "name": "karim kemo",
+      "email": "karimalielsayed88@gmail.com",
+      "password": "555555"
+    },
+    {
+      "id": "13c7",
+      "name": "karim ali",
+      "email": "karimalielsayed88@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "fff6",
+      "name": "ahmed",
+      "email": "ahmed55@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "cart": [
+    {
+      "id": 6,
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "category": "jewelery",
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168
+    },
+    {
+      "id": 14,
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "category": "electronics",
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99
+    }
+  ],
+  "offers": [
+    {
+      "id": "1",
+      "title": "white Shirt",
+      "image": "https://png.pngtree.com/png-clipart/20220815/ourmid/pngtree-mens-white-polo-shirt-for-clothing-model-mockup-and-passport-photo-png-image_6110906.png",
+      "price_before": 50,
+      "price_after": 40
+    },
+    {
+      "id": "2",
+      "title": "black Shirt",
+      "image": "https://pngimg.com/d/polo_shirt_PNG8143.png",
+      "price_before": 70,
+      "price_after": 60
+    },
+    {
+      "id": "3",
+      "title": "red Shirt",
+      "image": "https://5.imimg.com/data5/IN/BG/MY-27753127/mens-polo-red-t-shirt-500x500.jpg",
+      "price_before": 100,
+      "price_after": 75
+    },
+    {
+      "id": "4",
+      "title": "black jacket",
+      "image": "https://freepngimg.com/save/13466-jacket-png-file/1297x1200",
+      "price_before": 90,
+      "price_after": 65
+    },
+    {
+      "id": "5",
+      "title": "gray jacket",
+      "image": "https://pngimg.com/uploads/jacket/jacket_PNG8047.png",
+      "price_before": 90,
+      "price_after": 65
+    },
+    {
+      "id": "6",
+      "title": "red jacket",
+      "image": "https://freepngimg.com/save/13470-jacket-free-png-image/950x950",
+      "price_before": 80,
+      "price_after": 75
+    }
+  ]
+}

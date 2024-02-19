@@ -1,0 +1,80 @@
+.cart-container{
+    margin: 200px auto;
+}
+
+.container-title{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.cart-card{
+    margin-bottom: 60px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 50px 10px;
+    max-width: 350px !important;
+}
+
+
+.cart-img{
+    width: 90%;
+    height: 300px;
+    display: block;
+    margin: 30px auto;
+    padding: 15px 0;
+}
+
+.cart-title{
+    height: 80px;
+    margin: 10px 0;
+    overflow-y: auto;
+    padding-top: 10px;
+}
+
+.cart-category{
+    color: grey;
+    margin: 0px 8px 20px;
+}
+
+.cart-price{
+    color: #183D3D;
+    font-weight: 700;
+    margin-right: 50px;
+}
+
+.del-button{
+    background-color: transparent;
+    color: grey;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.del-button:hover{
+    color: rgba(128, 128, 128, 0.616);
+}
+
+.confirm-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.confirm-button button{
+    background-color: #183D3D;
+    font-weight: bold;
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    width: 50%;
+}
+
+.confirm-link{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,46 @@
+.cat-title{
+    text-align: center;
+    text-transform: capitalize;
+    margin: 80px auto;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 5px dashed #183D3D;
+    width: fit-content;
+    padding: 10px 30px;
+}
+.cat-card img{
+    width: 80%;
+    height: 200px;
+    margin: 30px;
+}
+
+.cat-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap !important;
+    width: 100%;
+    overflow-x: auto;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+
+/* scroll bar */
+
+/* Styles for the horizontal scrollbar */
+.cat-row::-webkit-scrollbar {
+    height: 8px;
+}
+
+.cat-row::-webkit-scrollbar-thumb {
+    background-color: #183D3D;
+    border-radius: 6px;
+}
+
+.cat-row::-webkit-scrollbar-track {
+    background-color: #f2f2f2;
+    border-radius: 6px;
+}

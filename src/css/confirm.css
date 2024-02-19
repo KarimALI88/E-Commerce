@@ -1,0 +1,17 @@
+.confirmation-div{
+    display: block;
+    text-align: center;
+    margin: 300px auto;
+}
+.confirmation-div h2{
+    text-transform: capitalize;
+}
+.confirmation-div h3{
+    text-transform: capitalize;
+    color: gray;
+}
+h2 span{
+    color: rgb(4, 143, 143);
+    font-size: 35px;
+    font-weight: bold;
+}

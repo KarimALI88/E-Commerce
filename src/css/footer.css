@@ -1,0 +1,23 @@
+.footer{
+    background-color: #040D12;
+    color: white;
+    padding: 50px 30px;
+    margin-top: 70px;
+}
+
+.footer h1{
+    color: gray;
+    margin-bottom: 30px;
+}
+
+.footerlinks{
+    text-decoration: none;
+    display: block;
+    margin: 20px 10px;
+}
+
+.sociallinks{
+    font-size: 30px;
+    font-weight: 500;
+    padding: 20px;
+}
